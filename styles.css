@@ -1,0 +1,11 @@
+.card {
+  height: 500px;
+  width: 500px;
+  border: 2px solid green;
+  background-color: aquamarine;
+}
+
+.about {
+  background-color: red;
+  border: 2px dotted black;
+}
